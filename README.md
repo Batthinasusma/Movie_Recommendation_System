@@ -77,6 +77,7 @@ Movie_Recommendation_System/
   - index.html
 - static/
   - style.css
+  
 
 ## 6. Setup
 
@@ -84,3 +85,15 @@ Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Hosted Demo
+
+Live Application:
+https://movie-recommendation-system-vs0w.onrender.com/
+
+## Screen Recording
+
+Demo Video:
+https://drive.google.com/file/d/1Q2GqnjCo3dHrCOeXUaOzCqqYo9rsBhhd/view
+
